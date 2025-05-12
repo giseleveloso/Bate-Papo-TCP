@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class ChatClient {
-    private static final String SERVER_ADDRESS = "localhost"; // Endereço do servidor (altere para IP se for outra máquina)
+    private static final String SERVER_ADDRESS = "10.90.1.188"; // Endereço do servidor (altere para IP se for outra máquina)
     private static final int SERVER_PORT = 12345; // Mesma porta usada pelo servidor
 
     public static void main(String[] args) {
